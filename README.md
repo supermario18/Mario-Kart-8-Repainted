@@ -9,4 +9,4 @@ EzioisAwesome56: project leader, music, whatever else
 Supermario18: member, help
 
 credits
-Various things where taken from game banana, Ill be linking it later
+Various things where taken from game banana, Credit will be given soon
