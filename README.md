@@ -5,8 +5,8 @@ Mario Kart 8: repainted is a mod pack for mario kart 8 on the wii u. While it ma
 This pack designed for use with cafiine. I will provide instructions how to to use it at a later time
 
 Team
-EzioisAwesome56: project leader, music, whatever else
-Supermario18: member, help
+ * EzioisAwesome56: project leader, music, whatever else
+ * Supermario18: member, help
 
 credits
-Various things where taken from game banana, Credit will be given soon
+ * no credits yet
